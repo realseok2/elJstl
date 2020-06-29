@@ -8,9 +8,6 @@
 %>
 
 
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -36,14 +33,5 @@
 	application name	=	${applicationScope.name } <br>
 	
 	
-	
-	
-	
-	
-	
-	
-	
-
-
 </body>
 </html>
